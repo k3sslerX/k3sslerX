@@ -1,6 +1,6 @@
 ## Hi, I'm Roman 👋
 
-<a href="https://t.me/k3sslerX" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/></a>
+Contact with me: <a href="https://t.me/k3sslerX" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/></a>
 
 
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html&layout=compact" />  
@@ -23,3 +23,9 @@ I am a backend-developer from Moscow
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+___
+### 💼 Projects
+
+ - **DBMS [k3SQL](https://github.com/k3sslerX/k3SQL/)**
+ - **Dicord bot [earthBot](https://github.com/k3sslerX/earthBot/)**
