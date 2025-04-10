@@ -3,16 +3,19 @@
 ___
 ### :man_technologist: About me
 
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=k3sslerX&show_icons=true&theme=vision-friendlt-dark" alt="GitHub stats" />
+
+
 **Name:** Roman
+
 **Nickaname:** k3ssler / sakKuta
+
 **Birthday:** 01.03
+
 **Job:** *nil*
 
 ___
 ### :love_letter: Contact with me: 
-
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=k3sslerX&show_icons=true&theme=vision-friendlt-dark" alt="GitHub stats" />
-
 
 <a href="https://t.me/k3sslerX" align="center" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/></a>
 
