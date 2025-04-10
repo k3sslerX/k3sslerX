@@ -18,8 +18,6 @@ I am a backend-developer from Moscow
 ___
 ### :fire: Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k3sslerX&theme=dark)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
