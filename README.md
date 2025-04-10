@@ -1,10 +1,11 @@
 ## Hi, I'm Roman 👋
+
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=k3sslerX&theme=vision-friendlt-dark&show_icons=true&hide_border=true&count_private=true&layout=compact" /> 
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html&layout=compact" />  
 ___
 ### :man_technologist: About me
 
 I am a backend-developer from Moscow
-
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html&layout=compact" />  
 
 ---
 ### :hammer_and_wrench: Stack
