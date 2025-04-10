@@ -1,9 +1,10 @@
 ## Hi, I'm Roman, backend-developer from Moscow 👋
 
 ___
-### :man_technologist: About me
-
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=k3sslerX&show_icons=true&theme=vision-friendlt-dark" alt="GitHub stats" />
+
+
+### :man_technologist: About me
 
 
 **Name:** Roman
