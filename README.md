@@ -1,21 +1,13 @@
 ## Hi, I'm Roman 👋
 
 ___
-<table border="0">
-<tr>
-<td valign="top" width="50%">
 ### :love_letter: Contact with me: 
 
 <a href="https://t.me/k3sslerX" align="center" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/></a>
-</td>
 
-<td valign="top" width="40%">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=k3sslerX&show_icons=true&theme=vision-friendlt-dark" alt="GitHub stats" />
-<br/>
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=k3sslerX&show_icons=true&theme=vision-friendlt-dark" alt="GitHub stats" />
+
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html&layout=compact" />  
-</td>
-</tr>
-</table> 
 
 
 ___
