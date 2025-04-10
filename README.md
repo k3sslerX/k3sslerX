@@ -3,9 +3,10 @@
 ___
 ### :love_letter: Contact with me: 
 
-<a href="https://t.me/k3sslerX" align="center" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/></a>
-
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=k3sslerX&show_icons=true&theme=vision-friendlt-dark" alt="GitHub stats" />
+
+
+<a href="https://t.me/k3sslerX" align="center" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/></a>
 
 ___
 ### :man_technologist: About me
