@@ -7,7 +7,7 @@ ___
 
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=k3sslerX&show_icons=true&theme=vision-friendlt-dark" alt="GitHub stats" />
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html&layout=compact" />  
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html&layout=compact" />  
 
 
 ___
