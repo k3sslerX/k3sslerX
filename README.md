@@ -20,10 +20,11 @@ ___
 <a href="https://t.me/k3sslerX" align="center" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/></a>
 
 
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html&layout=compact" />  
+
+
 ---
 ### :hammer_and_wrench: Stack
-
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html&layout=compact" />  
 
 
 <div>
@@ -39,5 +40,4 @@ ___
 ___
 ### :briefcase: Projects
 
- - **DBMS [k3SQL](https://github.com/k3sslerX/k3SQL/)**
- - **Dicord bot [earthBot](https://github.com/k3sslerX/earthBot/)**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k3sslerX&repo=k3SQL)](https://github.com/anuraghazra/github-readme-stats)
