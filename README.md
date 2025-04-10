@@ -7,9 +7,6 @@ ___
 
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=k3sslerX&show_icons=true&theme=vision-friendlt-dark" alt="GitHub stats" />
 
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html&layout=compact" />  
-
-
 ___
 ### :man_technologist: About me
 
@@ -17,6 +14,9 @@ I am a backend-developer from Moscow
 
 ---
 ### :hammer_and_wrench: Stack
+
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html&layout=compact" />  
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Golang" width="40" height="40"/>&nbsp;
