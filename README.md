@@ -12,6 +12,8 @@ ___
 
 **Birthday:** 01.03
 
+**University:** Bauman Moscow State Technical University (BMSTU)
+ 
 **Job:** *nil*
 
 
