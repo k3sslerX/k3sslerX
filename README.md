@@ -45,3 +45,5 @@ ___
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k3sslerX&repo=k3SQL)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k3sslerX&repo=earthBot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k3sslerX&repo=CS2Plus)](https://github.com/anuraghazra/github-readme-stats)
+
