@@ -8,7 +8,7 @@ ___
 
 **Name:** Roman
 
-**Nickaname:** k3ssler / sakKuta
+**Nickname:** k3ssler / sakKuta
 
 **Birthday:** 01.03
 
