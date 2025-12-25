@@ -39,10 +39,3 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 </div>
-
-___
-### :briefcase: Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k3sslerX&repo=k3SQL)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k3sslerX&repo=earthBot)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k3sslerX&repo=CS2Plus)](https://github.com/anuraghazra/github-readme-stats)
