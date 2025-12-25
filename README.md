@@ -13,8 +13,6 @@ ___
 **Birthday:** 01.03
 
 **University:** Bauman Moscow State Technical University (BMSTU)
- 
-**Job:** *nil*
 
 
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3sslerX&theme=vision-friendly-dark&count_private=true&hide=html,css&layout=compact" />  
